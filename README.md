@@ -1,5 +1,8 @@
 # Projeto IntuitiveCare
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Node.js](https://img.shields.io/badge/Node.js-14.x-green)
+
 ## Visão Geral
 
 Este projeto contém três testes relacionados à web scraping, conversão de PDF para CSV e manipulação de banco de dados.
